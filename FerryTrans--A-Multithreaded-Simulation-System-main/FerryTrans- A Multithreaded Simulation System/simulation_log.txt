@@ -1,0 +1,531 @@
+[23:40:15.956] Starting Ferry Trans Simulation...
+[23:40:15.960] 
+--- FERRY DOCKED AT ISLAND ---
+[23:40:15.964] CREATION: Vehicle 1 (CAR - STANDARD) created at MAINLAND
+[23:40:15.965] CREATION: Vehicle 2 (CAR - STANDARD) created at ISLAND
+[23:40:15.965] CREATION: Vehicle 3 (CAR - EMERGENCY) created at MAINLAND
+[23:40:15.966] CREATION: Vehicle 4 (CAR - EMERGENCY) created at ISLAND
+[23:40:15.966] CREATION: Vehicle 5 (CAR - STANDARD) created at MAINLAND
+[23:40:15.967] CREATION: Vehicle 6 (CAR - STANDARD) created at ISLAND
+[23:40:15.968] CREATION: Vehicle 7 (CAR - STANDARD) created at MAINLAND
+[23:40:15.968] CREATION: Vehicle 8 (CAR - STANDARD) created at ISLAND
+[23:40:15.975] CREATION: Vehicle 9 (CAR - STANDARD) created at MAINLAND
+[23:40:15.975] CREATION: Vehicle 10 (CAR - STANDARD) created at MAINLAND
+[23:40:15.976] TOLL: Vehicle 4 (CAR) entering ISLAND-Booth-2
+[23:40:15.976] TOLL: Vehicle 1 (CAR) entering MAINLAND-Booth-1
+[23:40:15.977] CREATION: Vehicle 11 (CAR - STANDARD) created at MAINLAND
+[23:40:15.977] TOLL: Vehicle 3 (CAR) entering MAINLAND-Booth-2
+[23:40:15.977] CREATION: Vehicle 12 (CAR - STANDARD) created at MAINLAND
+[23:40:15.977] TOLL: Vehicle 2 (CAR) entering ISLAND-Booth-1
+[23:40:15.978] CREATION: Vehicle 13 (MINIBUS - EMERGENCY) created at MAINLAND
+[23:40:15.978] CREATION: Vehicle 14 (MINIBUS - STANDARD) created at ISLAND
+[23:40:15.978] CREATION: Vehicle 15 (MINIBUS - EMERGENCY) created at ISLAND
+[23:40:15.978] CREATION: Vehicle 16 (MINIBUS - EMERGENCY) created at ISLAND
+[23:40:15.978] CREATION: Vehicle 17 (MINIBUS - STANDARD) created at ISLAND
+[23:40:15.979] CREATION: Vehicle 18 (MINIBUS - STANDARD) created at ISLAND
+[23:40:15.979] CREATION: Vehicle 19 (MINIBUS - STANDARD) created at ISLAND
+[23:40:15.979] CREATION: Vehicle 20 (MINIBUS - STANDARD) created at ISLAND
+[23:40:15.980] CREATION: Vehicle 21 (MINIBUS - STANDARD) created at MAINLAND
+[23:40:15.980] CREATION: Vehicle 22 (MINIBUS - STANDARD) created at MAINLAND
+[23:40:15.980] CREATION: Vehicle 23 (TRUCK - STANDARD) created at MAINLAND
+[23:40:15.981] CREATION: Vehicle 24 (TRUCK - STANDARD) created at MAINLAND
+[23:40:15.981] CREATION: Vehicle 25 (TRUCK - STANDARD) created at MAINLAND
+[23:40:15.981] CREATION: Vehicle 26 (TRUCK - EMERGENCY) created at MAINLAND
+[23:40:15.981] CREATION: Vehicle 27 (TRUCK - STANDARD) created at MAINLAND
+[23:40:15.981] CREATION: Vehicle 28 (TRUCK - STANDARD) created at MAINLAND
+[23:40:15.982] CREATION: Vehicle 29 (TRUCK - STANDARD) created at ISLAND
+[23:40:15.982] CREATION: Vehicle 30 (TRUCK - STANDARD) created at ISLAND
+[23:40:16.032] TOLL: Vehicle 4 cleared ISLAND-Booth-2
+[23:40:16.033] TOLL: Vehicle 6 (CAR) entering ISLAND-Booth-2
+[23:40:16.033] TOLL: Vehicle 1 cleared MAINLAND-Booth-1
+[23:40:16.033] TOLL: Vehicle 2 cleared ISLAND-Booth-1
+[23:40:16.034] TOLL: Vehicle 8 (CAR) entering ISLAND-Booth-1
+[23:40:16.034] TOLL: Vehicle 3 cleared MAINLAND-Booth-2
+[23:40:16.034] TOLL: Vehicle 5 (CAR) entering MAINLAND-Booth-1
+[23:40:16.035] TOLL: Vehicle 7 (CAR) entering MAINLAND-Booth-2
+[23:40:16.038] QUEUE: Vehicle 2 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 2
+[23:40:16.038] QUEUE: Vehicle 4 (CAR - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 1
+[23:40:16.038] QUEUE: Vehicle 1 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 1
+[23:40:16.039] BOARDING WAIT: Vehicle 4 is boarding (sliding to ferry)...
+[23:40:16.039] QUEUE: Vehicle 3 (CAR - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 2
+[23:40:16.085] TOLL: Vehicle 5 cleared MAINLAND-Booth-1
+[23:40:16.086] TOLL: Vehicle 8 cleared ISLAND-Booth-1
+[23:40:16.086] TOLL: Vehicle 9 (CAR) entering MAINLAND-Booth-1
+[23:40:16.086] QUEUE: Vehicle 5 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 3
+[23:40:16.086] TOLL: Vehicle 14 (MINIBUS) entering ISLAND-Booth-1
+[23:40:16.087] QUEUE: Vehicle 8 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 2
+[23:40:16.087] TOLL: Vehicle 6 cleared ISLAND-Booth-2
+[23:40:16.088] QUEUE: Vehicle 6 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 3
+[23:40:16.088] TOLL: Vehicle 15 (MINIBUS) entering ISLAND-Booth-2
+[23:40:16.090] TOLL: Vehicle 7 cleared MAINLAND-Booth-2
+[23:40:16.090] QUEUE: Vehicle 7 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 4
+[23:40:16.090] TOLL: Vehicle 10 (CAR) entering MAINLAND-Booth-2
+[23:40:16.141] TOLL: Vehicle 9 cleared MAINLAND-Booth-1
+[23:40:16.142] TOLL: Vehicle 10 cleared MAINLAND-Booth-2
+[23:40:16.142] TOLL: Vehicle 14 cleared ISLAND-Booth-1
+[23:40:16.142] TOLL: Vehicle 12 (CAR) entering MAINLAND-Booth-2
+[23:40:16.143] TOLL: Vehicle 15 cleared ISLAND-Booth-2
+[23:40:16.143] QUEUE: Vehicle 10 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 6
+[23:40:16.143] QUEUE: Vehicle 9 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 5
+[23:40:16.143] TOLL: Vehicle 11 (CAR) entering MAINLAND-Booth-1
+[23:40:16.143] TOLL: Vehicle 17 (MINIBUS) entering ISLAND-Booth-2
+[23:40:16.144] QUEUE: Vehicle 15 (MINIBUS - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 5
+[23:40:16.144] TOLL: Vehicle 16 (MINIBUS) entering ISLAND-Booth-1
+[23:40:16.144] QUEUE: Vehicle 14 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 4
+[23:40:16.195] TOLL: Vehicle 11 cleared MAINLAND-Booth-1
+[23:40:16.196] QUEUE: Vehicle 11 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 7
+[23:40:16.196] TOLL: Vehicle 17 cleared ISLAND-Booth-2
+[23:40:16.197] TOLL: Vehicle 12 cleared MAINLAND-Booth-2
+[23:40:16.197] TOLL: Vehicle 16 cleared ISLAND-Booth-1
+[23:40:16.197] TOLL: Vehicle 13 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:16.197] QUEUE: Vehicle 16 (MINIBUS - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 7
+[23:40:16.198] TOLL: Vehicle 19 (MINIBUS) entering ISLAND-Booth-1
+[23:40:16.198] TOLL: Vehicle 21 (MINIBUS) entering MAINLAND-Booth-2
+[23:40:16.198] QUEUE: Vehicle 12 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 8
+[23:40:16.198] QUEUE: Vehicle 17 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 6
+[23:40:16.199] TOLL: Vehicle 18 (MINIBUS) entering ISLAND-Booth-2
+[23:40:16.249] TOLL: Vehicle 19 cleared ISLAND-Booth-1
+[23:40:16.250] TOLL: Vehicle 18 cleared ISLAND-Booth-2
+[23:40:16.250] TOLL: Vehicle 20 (MINIBUS) entering ISLAND-Booth-1
+[23:40:16.250] QUEUE: Vehicle 19 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 8
+[23:40:16.251] TOLL: Vehicle 29 (TRUCK) entering ISLAND-Booth-2
+[23:40:16.251] QUEUE: Vehicle 18 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 9
+[23:40:16.251] TOLL: Vehicle 21 cleared MAINLAND-Booth-2
+[23:40:16.252] TOLL: Vehicle 13 cleared MAINLAND-Booth-1
+[23:40:16.252] TOLL: Vehicle 22 (MINIBUS) entering MAINLAND-Booth-2
+[23:40:16.252] QUEUE: Vehicle 21 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 9
+[23:40:16.252] QUEUE: Vehicle 13 (MINIBUS - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 10
+[23:40:16.252] TOLL: Vehicle 23 (TRUCK) entering MAINLAND-Booth-1
+[23:40:16.302] TOLL: Vehicle 20 cleared ISLAND-Booth-1
+[23:40:16.303] TOLL: Vehicle 29 cleared ISLAND-Booth-2
+[23:40:16.303] QUEUE: Vehicle 20 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 10
+[23:40:16.303] TOLL: Vehicle 30 (TRUCK) entering ISLAND-Booth-1
+[23:40:16.303] QUEUE: Vehicle 29 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 11
+[23:40:16.307] TOLL: Vehicle 22 cleared MAINLAND-Booth-2
+[23:40:16.307] QUEUE: Vehicle 22 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 11
+[23:40:16.308] TOLL: Vehicle 23 cleared MAINLAND-Booth-1
+[23:40:16.308] TOLL: Vehicle 24 (TRUCK) entering MAINLAND-Booth-2
+[23:40:16.308] TOLL: Vehicle 25 (TRUCK) entering MAINLAND-Booth-1
+[23:40:16.308] QUEUE: Vehicle 23 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 12
+[23:40:16.357] TOLL: Vehicle 30 cleared ISLAND-Booth-1
+[23:40:16.358] QUEUE: Vehicle 30 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 12
+[23:40:16.358] TOLL: Vehicle 24 cleared MAINLAND-Booth-2
+[23:40:16.359] QUEUE: Vehicle 24 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 13
+[23:40:16.359] TOLL: Vehicle 26 (TRUCK) entering MAINLAND-Booth-2
+[23:40:16.360] TOLL: Vehicle 25 cleared MAINLAND-Booth-1
+[23:40:16.360] QUEUE: Vehicle 25 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 14
+[23:40:16.360] TOLL: Vehicle 27 (TRUCK) entering MAINLAND-Booth-1
+[23:40:16.410] TOLL: Vehicle 26 cleared MAINLAND-Booth-2
+[23:40:16.410] QUEUE: Vehicle 26 (TRUCK - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 15
+[23:40:16.410] TOLL: Vehicle 28 (TRUCK) entering MAINLAND-Booth-2
+[23:40:16.411] TOLL: Vehicle 27 cleared MAINLAND-Booth-1
+[23:40:16.411] QUEUE: Vehicle 27 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 16
+[23:40:16.466] TOLL: Vehicle 28 cleared MAINLAND-Booth-2
+[23:40:16.466] QUEUE: Vehicle 28 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 17
+[23:40:16.850] BOARDING: Ferry loaded Vehicle 4 (CAR - EMERGENCY). Load: 1/20
+[23:40:16.850] BOARDING WAIT: Vehicle 15 is boarding (sliding to ferry)...
+[23:40:17.655] BOARDING: Ferry loaded Vehicle 15 (MINIBUS - EMERGENCY). Load: 3/20
+[23:40:17.656] BOARDING WAIT: Vehicle 16 is boarding (sliding to ferry)...
+[23:40:18.457] BOARDING: Ferry loaded Vehicle 16 (MINIBUS - EMERGENCY). Load: 5/20
+[23:40:18.457] BOARDING WAIT: Vehicle 2 is boarding (sliding to ferry)...
+[23:40:19.258] BOARDING: Ferry loaded Vehicle 2 (CAR - STANDARD). Load: 6/20
+[23:40:19.258] BOARDING WAIT: Vehicle 8 is boarding (sliding to ferry)...
+[23:40:20.060] BOARDING: Ferry loaded Vehicle 8 (CAR - STANDARD). Load: 7/20
+[23:40:20.060] BOARDING WAIT: Vehicle 6 is boarding (sliding to ferry)...
+[23:40:20.865] BOARDING: Ferry loaded Vehicle 6 (CAR - STANDARD). Load: 8/20
+[23:40:20.866] BOARDING WAIT: Vehicle 14 is boarding (sliding to ferry)...
+[23:40:21.669] BOARDING: Ferry loaded Vehicle 14 (MINIBUS - STANDARD). Load: 10/20
+[23:40:21.669] BOARDING WAIT: Vehicle 17 is boarding (sliding to ferry)...
+[23:40:22.471] BOARDING: Ferry loaded Vehicle 17 (MINIBUS - STANDARD). Load: 12/20
+[23:40:22.471] BOARDING WAIT: Vehicle 19 is boarding (sliding to ferry)...
+[23:40:23.273] BOARDING: Ferry loaded Vehicle 19 (MINIBUS - STANDARD). Load: 14/20
+[23:40:23.273] BOARDING WAIT: Vehicle 18 is boarding (sliding to ferry)...
+[23:40:24.076] BOARDING: Ferry loaded Vehicle 18 (MINIBUS - STANDARD). Load: 16/20
+[23:40:24.077] BOARDING WAIT: Vehicle 20 is boarding (sliding to ferry)...
+[23:40:24.882] BOARDING: Ferry loaded Vehicle 20 (MINIBUS - STANDARD). Load: 18/20
+[23:40:24.883] CRITICAL CHECK: Vehicle 29 cannot fit. Boarding STOPS for this trip.
+[23:40:24.883] DEPARTURE CONDITION MET: Next waiting vehicle cannot fit.
+[23:40:24.883] DEPARTURE: Ferry departing ISLAND and crossing the river...
+[23:40:27.888] 
+--- FERRY DOCKED AT MAINLAND ---
+[23:40:27.892] ARRIVAL: Ferry arrived at MAINLAND. Unloading 11 vehicles...
+[23:40:27.893] UNLOADING: Vehicle 4 disembarked at MAINLAND
+[23:40:27.893] ARRIVAL: Vehicle 4 has reached MAINLAND.
+[23:40:28.496] UNLOADING: Vehicle 15 disembarked at MAINLAND
+[23:40:28.496] ARRIVAL: Vehicle 15 has reached MAINLAND.
+[23:40:29.101] UNLOADING: Vehicle 16 disembarked at MAINLAND
+[23:40:29.102] ARRIVAL: Vehicle 16 has reached MAINLAND.
+[23:40:29.707] UNLOADING: Vehicle 2 disembarked at MAINLAND
+[23:40:29.707] ARRIVAL: Vehicle 2 has reached MAINLAND.
+[23:40:30.310] UNLOADING: Vehicle 8 disembarked at MAINLAND
+[23:40:30.310] ARRIVAL: Vehicle 8 has reached MAINLAND.
+[23:40:30.915] UNLOADING: Vehicle 6 disembarked at MAINLAND
+[23:40:30.916] ARRIVAL: Vehicle 6 has reached MAINLAND.
+[23:40:31.521] UNLOADING: Vehicle 14 disembarked at MAINLAND
+[23:40:31.521] ARRIVAL: Vehicle 14 has reached MAINLAND.
+[23:40:31.644] RETURN: Vehicle 4 (EMERGENCY) is entering MAINLAND port for return trip.
+[23:40:31.644] TOLL: Vehicle 4 (CAR) entering MAINLAND-Booth-1
+[23:40:31.695] TOLL: Vehicle 4 cleared MAINLAND-Booth-1
+[23:40:31.695] QUEUE: Vehicle 4 (CAR - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 18
+[23:40:32.127] UNLOADING: Vehicle 17 disembarked at MAINLAND
+[23:40:32.129] ARRIVAL: Vehicle 17 has reached MAINLAND.
+[23:40:32.730] UNLOADING: Vehicle 19 disembarked at MAINLAND
+[23:40:32.731] ARRIVAL: Vehicle 19 has reached MAINLAND.
+[23:40:33.058] RETURN: Vehicle 15 (EMERGENCY) is entering MAINLAND port for return trip.
+[23:40:33.059] TOLL: Vehicle 15 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:33.114] TOLL: Vehicle 15 cleared MAINLAND-Booth-1
+[23:40:33.115] QUEUE: Vehicle 15 (MINIBUS - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 19
+[23:40:33.331] UNLOADING: Vehicle 18 disembarked at MAINLAND
+[23:40:33.332] ARRIVAL: Vehicle 18 has reached MAINLAND.
+[23:40:33.413] RETURN: Vehicle 8 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:33.414] TOLL: Vehicle 8 (CAR) entering MAINLAND-Booth-1
+[23:40:33.469] TOLL: Vehicle 8 cleared MAINLAND-Booth-1
+[23:40:33.469] QUEUE: Vehicle 8 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 20
+[23:40:33.769] RETURN: Vehicle 16 (EMERGENCY) is entering MAINLAND port for return trip.
+[23:40:33.769] TOLL: Vehicle 16 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:33.825] TOLL: Vehicle 16 cleared MAINLAND-Booth-1
+[23:40:33.825] QUEUE: Vehicle 16 (MINIBUS - EMERGENCY) is in the MAINLAND Waiting Area. Queue position: 21
+[23:40:33.937] UNLOADING: Vehicle 20 disembarked at MAINLAND
+[23:40:33.937] ARRIVAL: Vehicle 20 has reached MAINLAND.
+[23:40:34.358] RETURN: Vehicle 6 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:34.358] TOLL: Vehicle 6 (CAR) entering MAINLAND-Booth-1
+[23:40:34.408] TOLL: Vehicle 6 cleared MAINLAND-Booth-1
+[23:40:34.409] QUEUE: Vehicle 6 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 22
+[23:40:34.542] BOARDING WAIT: Vehicle 3 is boarding (sliding to ferry)...
+[23:40:34.638] RETURN: Vehicle 2 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:34.639] TOLL: Vehicle 2 (CAR) entering MAINLAND-Booth-1
+[23:40:34.693] TOLL: Vehicle 2 cleared MAINLAND-Booth-1
+[23:40:34.693] QUEUE: Vehicle 2 (CAR - STANDARD) is in the MAINLAND Waiting Area. Queue position: 22
+[23:40:35.169] RETURN: Vehicle 17 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:35.169] TOLL: Vehicle 17 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:35.222] TOLL: Vehicle 17 cleared MAINLAND-Booth-1
+[23:40:35.223] QUEUE: Vehicle 17 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 23
+[23:40:35.348] BOARDING: Ferry loaded Vehicle 3 (CAR - EMERGENCY). Load: 1/20
+[23:40:35.348] BOARDING WAIT: Vehicle 13 is boarding (sliding to ferry)...
+[23:40:35.985] RETURN: Vehicle 18 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:35.985] TOLL: Vehicle 18 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:36.041] TOLL: Vehicle 18 cleared MAINLAND-Booth-1
+[23:40:36.041] QUEUE: Vehicle 18 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 23
+[23:40:36.097] RETURN: Vehicle 14 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:36.097] TOLL: Vehicle 14 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:36.152] TOLL: Vehicle 14 cleared MAINLAND-Booth-1
+[23:40:36.152] BOARDING: Ferry loaded Vehicle 13 (MINIBUS - EMERGENCY). Load: 3/20
+[23:40:36.153] BOARDING WAIT: Vehicle 26 is boarding (sliding to ferry)...
+[23:40:36.153] QUEUE: Vehicle 14 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 24
+[23:40:36.954] RETURN: Vehicle 19 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:36.955] TOLL: Vehicle 19 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:36.955] BOARDING: Ferry loaded Vehicle 26 (TRUCK - EMERGENCY). Load: 6/20
+[23:40:36.955] BOARDING WAIT: Vehicle 4 is boarding (sliding to ferry)...
+[23:40:37.006] TOLL: Vehicle 19 cleared MAINLAND-Booth-1
+[23:40:37.006] QUEUE: Vehicle 19 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 23
+[23:40:37.757] BOARDING: Ferry loaded Vehicle 4 (CAR - EMERGENCY). Load: 7/20
+[23:40:37.757] BOARDING WAIT: Vehicle 15 is boarding (sliding to ferry)...
+[23:40:38.379] RETURN: Vehicle 20 (STANDARD) is entering MAINLAND port for return trip.
+[23:40:38.380] TOLL: Vehicle 20 (MINIBUS) entering MAINLAND-Booth-1
+[23:40:38.431] TOLL: Vehicle 20 cleared MAINLAND-Booth-1
+[23:40:38.432] QUEUE: Vehicle 20 (MINIBUS - STANDARD) is in the MAINLAND Waiting Area. Queue position: 23
+[23:40:38.558] BOARDING: Ferry loaded Vehicle 15 (MINIBUS - EMERGENCY). Load: 9/20
+[23:40:38.558] BOARDING WAIT: Vehicle 16 is boarding (sliding to ferry)...
+[23:40:39.359] BOARDING: Ferry loaded Vehicle 16 (MINIBUS - EMERGENCY). Load: 11/20
+[23:40:39.359] BOARDING WAIT: Vehicle 1 is boarding (sliding to ferry)...
+[23:40:40.162] BOARDING: Ferry loaded Vehicle 1 (CAR - STANDARD). Load: 12/20
+[23:40:40.163] BOARDING WAIT: Vehicle 5 is boarding (sliding to ferry)...
+[23:40:40.964] BOARDING: Ferry loaded Vehicle 5 (CAR - STANDARD). Load: 13/20
+[23:40:40.964] BOARDING WAIT: Vehicle 7 is boarding (sliding to ferry)...
+[23:40:41.765] BOARDING: Ferry loaded Vehicle 7 (CAR - STANDARD). Load: 14/20
+[23:40:41.765] BOARDING WAIT: Vehicle 9 is boarding (sliding to ferry)...
+[23:40:42.568] BOARDING: Ferry loaded Vehicle 9 (CAR - STANDARD). Load: 15/20
+[23:40:42.569] BOARDING WAIT: Vehicle 10 is boarding (sliding to ferry)...
+[23:40:43.374] BOARDING: Ferry loaded Vehicle 10 (CAR - STANDARD). Load: 16/20
+[23:40:43.374] BOARDING WAIT: Vehicle 11 is boarding (sliding to ferry)...
+[23:40:44.177] BOARDING: Ferry loaded Vehicle 11 (CAR - STANDARD). Load: 17/20
+[23:40:44.177] BOARDING WAIT: Vehicle 12 is boarding (sliding to ferry)...
+[23:40:44.982] BOARDING: Ferry loaded Vehicle 12 (CAR - STANDARD). Load: 18/20
+[23:40:44.982] BOARDING WAIT: Vehicle 21 is boarding (sliding to ferry)...
+[23:40:45.787] BOARDING: Ferry loaded Vehicle 21 (MINIBUS - STANDARD). Load: 20/20
+[23:40:45.788] CRITICAL CHECK: Vehicle 22 cannot fit. Boarding STOPS for this trip.
+[23:40:45.788] DEPARTURE CONDITION MET: Ferry is FULL (20 units).
+[23:40:45.788] DEPARTURE: Ferry departing MAINLAND and crossing the river...
+[23:40:48.790] 
+--- FERRY DOCKED AT ISLAND ---
+[23:40:48.791] ARRIVAL: Ferry arrived at ISLAND. Unloading 14 vehicles...
+[23:40:48.791] UNLOADING: Vehicle 3 disembarked at ISLAND
+[23:40:48.792] ARRIVAL: Vehicle 3 has reached ISLAND.
+[23:40:49.395] UNLOADING: Vehicle 13 disembarked at ISLAND
+[23:40:49.395] ARRIVAL: Vehicle 13 has reached ISLAND.
+[23:40:50.000] UNLOADING: Vehicle 26 disembarked at ISLAND
+[23:40:50.001] ARRIVAL: Vehicle 26 has reached ISLAND.
+[23:40:50.605] UNLOADING: Vehicle 4 disembarked at ISLAND
+[23:40:50.606] COMPLETION: Vehicle 4 has returned to ISLAND and finished its round trip!
+[23:40:51.207] UNLOADING: Vehicle 15 disembarked at ISLAND
+[23:40:51.208] COMPLETION: Vehicle 15 has returned to ISLAND and finished its round trip!
+[23:40:51.519] RETURN: Vehicle 3 (EMERGENCY) is entering ISLAND port for return trip.
+[23:40:51.519] TOLL: Vehicle 3 (CAR) entering ISLAND-Booth-1
+[23:40:51.571] TOLL: Vehicle 3 cleared ISLAND-Booth-1
+[23:40:51.572] QUEUE: Vehicle 3 (CAR - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 3
+[23:40:51.809] UNLOADING: Vehicle 16 disembarked at ISLAND
+[23:40:51.809] COMPLETION: Vehicle 16 has returned to ISLAND and finished its round trip!
+[23:40:52.409] UNLOADING: Vehicle 1 disembarked at ISLAND
+[23:40:52.410] ARRIVAL: Vehicle 1 has reached ISLAND.
+[23:40:52.645] RETURN: Vehicle 13 (EMERGENCY) is entering ISLAND port for return trip.
+[23:40:52.645] TOLL: Vehicle 13 (MINIBUS) entering ISLAND-Booth-1
+[23:40:52.697] TOLL: Vehicle 13 cleared ISLAND-Booth-1
+[23:40:52.697] QUEUE: Vehicle 13 (MINIBUS - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 4
+[23:40:53.015] UNLOADING: Vehicle 5 disembarked at ISLAND
+[23:40:53.015] ARRIVAL: Vehicle 5 has reached ISLAND.
+[23:40:53.620] UNLOADING: Vehicle 7 disembarked at ISLAND
+[23:40:53.620] ARRIVAL: Vehicle 7 has reached ISLAND.
+[23:40:54.221] UNLOADING: Vehicle 9 disembarked at ISLAND
+[23:40:54.222] ARRIVAL: Vehicle 9 has reached ISLAND.
+[23:40:54.544] RETURN: Vehicle 26 (EMERGENCY) is entering ISLAND port for return trip.
+[23:40:54.544] TOLL: Vehicle 26 (TRUCK) entering ISLAND-Booth-1
+[23:40:54.597] TOLL: Vehicle 26 cleared ISLAND-Booth-1
+[23:40:54.597] QUEUE: Vehicle 26 (TRUCK - EMERGENCY) is in the ISLAND Waiting Area. Queue position: 5
+[23:40:54.822] UNLOADING: Vehicle 10 disembarked at ISLAND
+[23:40:54.822] ARRIVAL: Vehicle 10 has reached ISLAND.
+[23:40:55.422] UNLOADING: Vehicle 11 disembarked at ISLAND
+[23:40:55.422] ARRIVAL: Vehicle 11 has reached ISLAND.
+[23:40:55.657] RETURN: Vehicle 7 (STANDARD) is entering ISLAND port for return trip.
+[23:40:55.658] TOLL: Vehicle 7 (CAR) entering ISLAND-Booth-1
+[23:40:55.708] TOLL: Vehicle 7 cleared ISLAND-Booth-1
+[23:40:55.708] QUEUE: Vehicle 7 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 6
+[23:40:56.024] UNLOADING: Vehicle 12 disembarked at ISLAND
+[23:40:56.024] ARRIVAL: Vehicle 12 has reached ISLAND.
+[23:40:56.625] UNLOADING: Vehicle 21 disembarked at ISLAND
+[23:40:56.625] ARRIVAL: Vehicle 21 has reached ISLAND.
+[23:40:56.993] RETURN: Vehicle 1 (STANDARD) is entering ISLAND port for return trip.
+[23:40:56.993] TOLL: Vehicle 1 (CAR) entering ISLAND-Booth-1
+[23:40:57.046] TOLL: Vehicle 1 cleared ISLAND-Booth-1
+[23:40:57.046] QUEUE: Vehicle 1 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 7
+[23:40:57.226] BOARDING WAIT: Vehicle 3 is boarding (sliding to ferry)...
+[23:40:57.702] RETURN: Vehicle 9 (STANDARD) is entering ISLAND port for return trip.
+[23:40:57.702] TOLL: Vehicle 9 (CAR) entering ISLAND-Booth-1
+[23:40:57.741] RETURN: Vehicle 5 (STANDARD) is entering ISLAND port for return trip.
+[23:40:57.741] TOLL: Vehicle 5 (CAR) entering ISLAND-Booth-2
+[23:40:57.756] TOLL: Vehicle 9 cleared ISLAND-Booth-1
+[23:40:57.757] QUEUE: Vehicle 9 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 7
+[23:40:57.795] TOLL: Vehicle 5 cleared ISLAND-Booth-2
+[23:40:57.796] QUEUE: Vehicle 5 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 8
+[23:40:58.031] BOARDING: Ferry loaded Vehicle 3 (CAR - EMERGENCY). Load: 1/20
+[23:40:58.031] BOARDING WAIT: Vehicle 13 is boarding (sliding to ferry)...
+[23:40:58.147] RETURN: Vehicle 12 (STANDARD) is entering ISLAND port for return trip.
+[23:40:58.147] TOLL: Vehicle 12 (CAR) entering ISLAND-Booth-1
+[23:40:58.202] TOLL: Vehicle 12 cleared ISLAND-Booth-1
+[23:40:58.203] QUEUE: Vehicle 12 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 8
+[23:40:58.247] RETURN: Vehicle 10 (STANDARD) is entering ISLAND port for return trip.
+[23:40:58.247] TOLL: Vehicle 10 (CAR) entering ISLAND-Booth-1
+[23:40:58.298] TOLL: Vehicle 10 cleared ISLAND-Booth-1
+[23:40:58.299] QUEUE: Vehicle 10 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 9
+[23:40:58.836] BOARDING: Ferry loaded Vehicle 13 (MINIBUS - EMERGENCY). Load: 3/20
+[23:40:58.837] BOARDING WAIT: Vehicle 26 is boarding (sliding to ferry)...
+[23:40:59.502] RETURN: Vehicle 11 (STANDARD) is entering ISLAND port for return trip.
+[23:40:59.502] TOLL: Vehicle 11 (CAR) entering ISLAND-Booth-1
+[23:40:59.555] TOLL: Vehicle 11 cleared ISLAND-Booth-1
+[23:40:59.555] QUEUE: Vehicle 11 (CAR - STANDARD) is in the ISLAND Waiting Area. Queue position: 9
+[23:40:59.642] BOARDING: Ferry loaded Vehicle 26 (TRUCK - EMERGENCY). Load: 6/20
+[23:40:59.642] BOARDING WAIT: Vehicle 29 is boarding (sliding to ferry)...
+[23:41:00.331] RETURN: Vehicle 21 (STANDARD) is entering ISLAND port for return trip.
+[23:41:00.331] TOLL: Vehicle 21 (MINIBUS) entering ISLAND-Booth-1
+[23:41:00.386] TOLL: Vehicle 21 cleared ISLAND-Booth-1
+[23:41:00.386] QUEUE: Vehicle 21 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 9
+[23:41:00.445] BOARDING: Ferry loaded Vehicle 29 (TRUCK - STANDARD). Load: 9/20
+[23:41:00.445] BOARDING WAIT: Vehicle 30 is boarding (sliding to ferry)...
+[23:41:01.250] BOARDING: Ferry loaded Vehicle 30 (TRUCK - STANDARD). Load: 12/20
+[23:41:01.251] BOARDING WAIT: Vehicle 7 is boarding (sliding to ferry)...
+[23:41:02.052] BOARDING: Ferry loaded Vehicle 7 (CAR - STANDARD). Load: 13/20
+[23:41:02.052] BOARDING WAIT: Vehicle 1 is boarding (sliding to ferry)...
+[23:41:02.856] BOARDING: Ferry loaded Vehicle 1 (CAR - STANDARD). Load: 14/20
+[23:41:02.858] BOARDING WAIT: Vehicle 9 is boarding (sliding to ferry)...
+[23:41:03.659] BOARDING: Ferry loaded Vehicle 9 (CAR - STANDARD). Load: 15/20
+[23:41:03.660] BOARDING WAIT: Vehicle 5 is boarding (sliding to ferry)...
+[23:41:04.465] BOARDING: Ferry loaded Vehicle 5 (CAR - STANDARD). Load: 16/20
+[23:41:04.465] BOARDING WAIT: Vehicle 12 is boarding (sliding to ferry)...
+[23:41:05.268] BOARDING: Ferry loaded Vehicle 12 (CAR - STANDARD). Load: 17/20
+[23:41:05.268] BOARDING WAIT: Vehicle 10 is boarding (sliding to ferry)...
+[23:41:06.070] BOARDING: Ferry loaded Vehicle 10 (CAR - STANDARD). Load: 18/20
+[23:41:06.070] BOARDING WAIT: Vehicle 11 is boarding (sliding to ferry)...
+[23:41:06.874] BOARDING: Ferry loaded Vehicle 11 (CAR - STANDARD). Load: 19/20
+[23:41:06.874] CRITICAL CHECK: Vehicle 21 cannot fit. Boarding STOPS for this trip.
+[23:41:06.874] DEPARTURE CONDITION MET: Next waiting vehicle cannot fit.
+[23:41:06.874] DEPARTURE: Ferry departing ISLAND and crossing the river...
+[23:41:09.877] 
+--- FERRY DOCKED AT MAINLAND ---
+[23:41:09.877] ARRIVAL: Ferry arrived at MAINLAND. Unloading 12 vehicles...
+[23:41:09.877] UNLOADING: Vehicle 3 disembarked at MAINLAND
+[23:41:09.878] COMPLETION: Vehicle 3 has returned to MAINLAND and finished its round trip!
+[23:41:10.479] UNLOADING: Vehicle 13 disembarked at MAINLAND
+[23:41:10.479] COMPLETION: Vehicle 13 has returned to MAINLAND and finished its round trip!
+[23:41:11.082] UNLOADING: Vehicle 26 disembarked at MAINLAND
+[23:41:11.082] COMPLETION: Vehicle 26 has returned to MAINLAND and finished its round trip!
+[23:41:11.685] UNLOADING: Vehicle 29 disembarked at MAINLAND
+[23:41:11.685] ARRIVAL: Vehicle 29 has reached MAINLAND.
+[23:41:12.290] UNLOADING: Vehicle 30 disembarked at MAINLAND
+[23:41:12.290] ARRIVAL: Vehicle 30 has reached MAINLAND.
+[23:41:12.895] UNLOADING: Vehicle 7 disembarked at MAINLAND
+[23:41:12.895] COMPLETION: Vehicle 7 has returned to MAINLAND and finished its round trip!
+[23:41:13.496] UNLOADING: Vehicle 1 disembarked at MAINLAND
+[23:41:13.497] COMPLETION: Vehicle 1 has returned to MAINLAND and finished its round trip!
+[23:41:14.102] UNLOADING: Vehicle 9 disembarked at MAINLAND
+[23:41:14.102] COMPLETION: Vehicle 9 has returned to MAINLAND and finished its round trip!
+[23:41:14.307] RETURN: Vehicle 29 (STANDARD) is entering MAINLAND port for return trip.
+[23:41:14.307] TOLL: Vehicle 29 (TRUCK) entering MAINLAND-Booth-1
+[23:41:14.358] TOLL: Vehicle 29 cleared MAINLAND-Booth-1
+[23:41:14.358] QUEUE: Vehicle 29 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 15
+[23:41:14.703] UNLOADING: Vehicle 5 disembarked at MAINLAND
+[23:41:14.703] COMPLETION: Vehicle 5 has returned to MAINLAND and finished its round trip!
+[23:41:15.305] UNLOADING: Vehicle 12 disembarked at MAINLAND
+[23:41:15.305] COMPLETION: Vehicle 12 has returned to MAINLAND and finished its round trip!
+[23:41:15.905] UNLOADING: Vehicle 10 disembarked at MAINLAND
+[23:41:15.905] COMPLETION: Vehicle 10 has returned to MAINLAND and finished its round trip!
+[23:41:16.507] UNLOADING: Vehicle 11 disembarked at MAINLAND
+[23:41:16.508] COMPLETION: Vehicle 11 has returned to MAINLAND and finished its round trip!
+[23:41:16.589] RETURN: Vehicle 30 (STANDARD) is entering MAINLAND port for return trip.
+[23:41:16.589] TOLL: Vehicle 30 (TRUCK) entering MAINLAND-Booth-1
+[23:41:16.643] TOLL: Vehicle 30 cleared MAINLAND-Booth-1
+[23:41:16.643] QUEUE: Vehicle 30 (TRUCK - STANDARD) is in the MAINLAND Waiting Area. Queue position: 16
+[23:41:17.110] BOARDING WAIT: Vehicle 22 is boarding (sliding to ferry)...
+[23:41:17.915] BOARDING: Ferry loaded Vehicle 22 (MINIBUS - STANDARD). Load: 2/20
+[23:41:17.916] BOARDING WAIT: Vehicle 23 is boarding (sliding to ferry)...
+[23:41:18.718] BOARDING: Ferry loaded Vehicle 23 (TRUCK - STANDARD). Load: 5/20
+[23:41:18.718] BOARDING WAIT: Vehicle 24 is boarding (sliding to ferry)...
+[23:41:19.518] BOARDING: Ferry loaded Vehicle 24 (TRUCK - STANDARD). Load: 8/20
+[23:41:19.519] BOARDING WAIT: Vehicle 25 is boarding (sliding to ferry)...
+[23:41:20.324] BOARDING: Ferry loaded Vehicle 25 (TRUCK - STANDARD). Load: 11/20
+[23:41:20.324] BOARDING WAIT: Vehicle 27 is boarding (sliding to ferry)...
+[23:41:21.125] BOARDING: Ferry loaded Vehicle 27 (TRUCK - STANDARD). Load: 14/20
+[23:41:21.125] BOARDING WAIT: Vehicle 28 is boarding (sliding to ferry)...
+[23:41:21.927] BOARDING: Ferry loaded Vehicle 28 (TRUCK - STANDARD). Load: 17/20
+[23:41:21.927] BOARDING WAIT: Vehicle 8 is boarding (sliding to ferry)...
+[23:41:22.730] BOARDING: Ferry loaded Vehicle 8 (CAR - STANDARD). Load: 18/20
+[23:41:22.731] BOARDING WAIT: Vehicle 6 is boarding (sliding to ferry)...
+[23:41:23.535] BOARDING: Ferry loaded Vehicle 6 (CAR - STANDARD). Load: 19/20
+[23:41:23.535] BOARDING WAIT: Vehicle 2 is boarding (sliding to ferry)...
+[23:41:24.340] BOARDING: Ferry loaded Vehicle 2 (CAR - STANDARD). Load: 20/20
+[23:41:24.340] CRITICAL CHECK: Vehicle 17 cannot fit. Boarding STOPS for this trip.
+[23:41:24.340] DEPARTURE CONDITION MET: Ferry is FULL (20 units).
+[23:41:24.340] DEPARTURE: Ferry departing MAINLAND and crossing the river...
+[23:41:27.342] 
+--- FERRY DOCKED AT ISLAND ---
+[23:41:27.343] ARRIVAL: Ferry arrived at ISLAND. Unloading 9 vehicles...
+[23:41:27.343] UNLOADING: Vehicle 22 disembarked at ISLAND
+[23:41:27.343] ARRIVAL: Vehicle 22 has reached ISLAND.
+[23:41:27.946] UNLOADING: Vehicle 23 disembarked at ISLAND
+[23:41:27.947] ARRIVAL: Vehicle 23 has reached ISLAND.
+[23:41:28.547] UNLOADING: Vehicle 24 disembarked at ISLAND
+[23:41:28.547] ARRIVAL: Vehicle 24 has reached ISLAND.
+[23:41:29.152] UNLOADING: Vehicle 25 disembarked at ISLAND
+[23:41:29.152] ARRIVAL: Vehicle 25 has reached ISLAND.
+[23:41:29.752] UNLOADING: Vehicle 27 disembarked at ISLAND
+[23:41:29.752] ARRIVAL: Vehicle 27 has reached ISLAND.
+[23:41:30.355] UNLOADING: Vehicle 28 disembarked at ISLAND
+[23:41:30.355] ARRIVAL: Vehicle 28 has reached ISLAND.
+[23:41:30.685] RETURN: Vehicle 23 (STANDARD) is entering ISLAND port for return trip.
+[23:41:30.685] TOLL: Vehicle 23 (TRUCK) entering ISLAND-Booth-1
+[23:41:30.740] TOLL: Vehicle 23 cleared ISLAND-Booth-1
+[23:41:30.740] QUEUE: Vehicle 23 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 2
+[23:41:30.956] UNLOADING: Vehicle 8 disembarked at ISLAND
+[23:41:30.956] COMPLETION: Vehicle 8 has returned to ISLAND and finished its round trip!
+[23:41:31.561] UNLOADING: Vehicle 6 disembarked at ISLAND
+[23:41:31.562] COMPLETION: Vehicle 6 has returned to ISLAND and finished its round trip!
+[23:41:32.058] RETURN: Vehicle 22 (STANDARD) is entering ISLAND port for return trip.
+[23:41:32.058] TOLL: Vehicle 22 (MINIBUS) entering ISLAND-Booth-1
+[23:41:32.109] TOLL: Vehicle 22 cleared ISLAND-Booth-1
+[23:41:32.109] QUEUE: Vehicle 22 (MINIBUS - STANDARD) is in the ISLAND Waiting Area. Queue position: 3
+[23:41:32.167] UNLOADING: Vehicle 2 disembarked at ISLAND
+[23:41:32.167] COMPLETION: Vehicle 2 has returned to ISLAND and finished its round trip!
+[23:41:32.252] RETURN: Vehicle 27 (STANDARD) is entering ISLAND port for return trip.
+[23:41:32.252] TOLL: Vehicle 27 (TRUCK) entering ISLAND-Booth-1
+[23:41:32.304] TOLL: Vehicle 27 cleared ISLAND-Booth-1
+[23:41:32.304] QUEUE: Vehicle 27 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 4
+[23:41:32.305] RETURN: Vehicle 25 (STANDARD) is entering ISLAND port for return trip.
+[23:41:32.305] TOLL: Vehicle 25 (TRUCK) entering ISLAND-Booth-1
+[23:41:32.356] TOLL: Vehicle 25 cleared ISLAND-Booth-1
+[23:41:32.356] QUEUE: Vehicle 25 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 5
+[23:41:32.483] RETURN: Vehicle 28 (STANDARD) is entering ISLAND port for return trip.
+[23:41:32.483] TOLL: Vehicle 28 (TRUCK) entering ISLAND-Booth-1
+[23:41:32.535] TOLL: Vehicle 28 cleared ISLAND-Booth-1
+[23:41:32.536] QUEUE: Vehicle 28 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 6
+[23:41:32.706] RETURN: Vehicle 24 (STANDARD) is entering ISLAND port for return trip.
+[23:41:32.706] TOLL: Vehicle 24 (TRUCK) entering ISLAND-Booth-1
+[23:41:32.762] TOLL: Vehicle 24 cleared ISLAND-Booth-1
+[23:41:32.762] QUEUE: Vehicle 24 (TRUCK - STANDARD) is in the ISLAND Waiting Area. Queue position: 7
+[23:41:32.767] BOARDING WAIT: Vehicle 21 is boarding (sliding to ferry)...
+[23:41:33.573] BOARDING: Ferry loaded Vehicle 21 (MINIBUS - STANDARD). Load: 2/20
+[23:41:33.573] BOARDING WAIT: Vehicle 23 is boarding (sliding to ferry)...
+[23:41:34.373] BOARDING: Ferry loaded Vehicle 23 (TRUCK - STANDARD). Load: 5/20
+[23:41:34.374] BOARDING WAIT: Vehicle 22 is boarding (sliding to ferry)...
+[23:41:35.175] BOARDING: Ferry loaded Vehicle 22 (MINIBUS - STANDARD). Load: 7/20
+[23:41:35.175] BOARDING WAIT: Vehicle 27 is boarding (sliding to ferry)...
+[23:41:35.980] BOARDING: Ferry loaded Vehicle 27 (TRUCK - STANDARD). Load: 10/20
+[23:41:35.980] BOARDING WAIT: Vehicle 25 is boarding (sliding to ferry)...
+[23:41:36.785] BOARDING: Ferry loaded Vehicle 25 (TRUCK - STANDARD). Load: 13/20
+[23:41:36.785] BOARDING WAIT: Vehicle 28 is boarding (sliding to ferry)...
+[23:41:37.585] BOARDING: Ferry loaded Vehicle 28 (TRUCK - STANDARD). Load: 16/20
+[23:41:37.586] BOARDING WAIT: Vehicle 24 is boarding (sliding to ferry)...
+[23:41:38.388] BOARDING: Ferry loaded Vehicle 24 (TRUCK - STANDARD). Load: 19/20
+[23:41:38.389] DEPARTURE CONDITION MET: Max wait time reached with load 19
+[23:41:38.389] DEPARTURE: Ferry departing ISLAND and crossing the river...
+[23:41:41.394] 
+--- FERRY DOCKED AT MAINLAND ---
+[23:41:41.395] ARRIVAL: Ferry arrived at MAINLAND. Unloading 7 vehicles...
+[23:41:41.395] UNLOADING: Vehicle 21 disembarked at MAINLAND
+[23:41:41.395] COMPLETION: Vehicle 21 has returned to MAINLAND and finished its round trip!
+[23:41:42.000] UNLOADING: Vehicle 23 disembarked at MAINLAND
+[23:41:42.000] COMPLETION: Vehicle 23 has returned to MAINLAND and finished its round trip!
+[23:41:42.605] UNLOADING: Vehicle 22 disembarked at MAINLAND
+[23:41:42.606] COMPLETION: Vehicle 22 has returned to MAINLAND and finished its round trip!
+[23:41:43.207] UNLOADING: Vehicle 27 disembarked at MAINLAND
+[23:41:43.207] COMPLETION: Vehicle 27 has returned to MAINLAND and finished its round trip!
+[23:41:43.812] UNLOADING: Vehicle 25 disembarked at MAINLAND
+[23:41:43.812] COMPLETION: Vehicle 25 has returned to MAINLAND and finished its round trip!
+[23:41:44.414] UNLOADING: Vehicle 28 disembarked at MAINLAND
+[23:41:44.415] COMPLETION: Vehicle 28 has returned to MAINLAND and finished its round trip!
+[23:41:45.020] UNLOADING: Vehicle 24 disembarked at MAINLAND
+[23:41:45.020] COMPLETION: Vehicle 24 has returned to MAINLAND and finished its round trip!
+[23:41:45.625] BOARDING WAIT: Vehicle 17 is boarding (sliding to ferry)...
+[23:41:46.430] BOARDING: Ferry loaded Vehicle 17 (MINIBUS - STANDARD). Load: 2/20
+[23:41:46.430] BOARDING WAIT: Vehicle 18 is boarding (sliding to ferry)...
+[23:41:47.235] BOARDING: Ferry loaded Vehicle 18 (MINIBUS - STANDARD). Load: 4/20
+[23:41:47.235] BOARDING WAIT: Vehicle 14 is boarding (sliding to ferry)...
+[23:41:48.035] BOARDING: Ferry loaded Vehicle 14 (MINIBUS - STANDARD). Load: 6/20
+[23:41:48.036] BOARDING WAIT: Vehicle 19 is boarding (sliding to ferry)...
+[23:41:48.839] BOARDING: Ferry loaded Vehicle 19 (MINIBUS - STANDARD). Load: 8/20
+[23:41:48.839] BOARDING WAIT: Vehicle 20 is boarding (sliding to ferry)...
+[23:41:49.644] BOARDING: Ferry loaded Vehicle 20 (MINIBUS - STANDARD). Load: 10/20
+[23:41:49.644] BOARDING WAIT: Vehicle 29 is boarding (sliding to ferry)...
+[23:41:50.446] BOARDING: Ferry loaded Vehicle 29 (TRUCK - STANDARD). Load: 13/20
+[23:41:50.446] BOARDING WAIT: Vehicle 30 is boarding (sliding to ferry)...
+[23:41:51.252] BOARDING: Ferry loaded Vehicle 30 (TRUCK - STANDARD). Load: 16/20
+[23:41:51.252] DEPARTURE CONDITION MET: Max wait time reached with load 16
+[23:41:51.252] DEPARTURE: Ferry departing MAINLAND and crossing the river...
+[23:41:54.257] 
+--- FERRY DOCKED AT ISLAND ---
+[23:41:54.257] ARRIVAL: Ferry arrived at ISLAND. Unloading 7 vehicles...
+[23:41:54.257] UNLOADING: Vehicle 17 disembarked at ISLAND
+[23:41:54.257] COMPLETION: Vehicle 17 has returned to ISLAND and finished its round trip!
+[23:41:54.862] UNLOADING: Vehicle 18 disembarked at ISLAND
+[23:41:54.862] COMPLETION: Vehicle 18 has returned to ISLAND and finished its round trip!
+[23:41:55.464] UNLOADING: Vehicle 14 disembarked at ISLAND
+[23:41:55.464] COMPLETION: Vehicle 14 has returned to ISLAND and finished its round trip!
+[23:41:56.069] UNLOADING: Vehicle 19 disembarked at ISLAND
+[23:41:56.069] COMPLETION: Vehicle 19 has returned to ISLAND and finished its round trip!
+[23:41:56.671] UNLOADING: Vehicle 20 disembarked at ISLAND
+[23:41:56.671] COMPLETION: Vehicle 20 has returned to ISLAND and finished its round trip!
+[23:41:57.276] UNLOADING: Vehicle 29 disembarked at ISLAND
+[23:41:57.277] COMPLETION: Vehicle 29 has returned to ISLAND and finished its round trip!
+[23:41:57.878] UNLOADING: Vehicle 30 disembarked at ISLAND
+[23:41:57.878] COMPLETION: Vehicle 30 has returned to ISLAND and finished its round trip!
+[23:41:57.879] 
+--- All 30 vehicles have completed their round trips! ---
+[23:41:58.481] SHUTDOWN: Ferry thread terminating cleanly.
+[23:41:58.482] Simulation fully terminated successfully with zero orphan threads.
+
+=================================================
+          FINAL SIMULATION STATISTICS
+=================================================
+Total Simulation Time: 102527 ms
+Total Ferry Trips:     6
+Average Wait Time:     25214 ms
+Max Wait Time:         71884 ms
+Ferry Utilization:     93.33%
+=================================================
